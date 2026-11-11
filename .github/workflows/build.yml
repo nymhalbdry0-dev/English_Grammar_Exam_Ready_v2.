@@ -1,4 +1,4 @@
-name: Build English Grammar Exam APK
+name:English_Grammar_Exam_Ready_v2.4.zip
 
 on:
   workflow_dispatch:
